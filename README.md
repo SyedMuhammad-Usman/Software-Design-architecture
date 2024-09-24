@@ -1,4 +1,4 @@
-Polymorphism Example in Java (Single File)
+##  Polymorphism Example in Java (Single File)
 
 This project demonstrates the concept of **Polymorphism** in Java, implemented in a single Java file. Polymorphism allows methods to be overridden in derived classes and invoked dynamically based on the object type.
 
@@ -8,7 +8,6 @@ Overview
 - Two concrete classes, `Circle` and `Rectangle`, extend `Shape` and implement the `draw()` method.
 - In the `main()` method, polymorphism is demonstrated by assigning different shapes (`Circle` and `Rectangle`) to the `Shape` reference, and invoking the `draw()` method.
 
-Example Output
 Running the Code in IntelliJ IDEA
 
 1. Open IntelliJ IDEA and create a new Java project.
